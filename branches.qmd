@@ -9,3 +9,12 @@ editor: visual
 This is a branch
 
 Hi Colleen, we are making little progress but positive :)
+
+Hey Javi, here is a little bit more positive progress too!
+
+```{r}
+vector <- c("test", "test_2")
+
+```
+
+vector \<- c
